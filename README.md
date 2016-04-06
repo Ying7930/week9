@@ -30,17 +30,15 @@
 - USB Jack
 - switches
 - Battery Holders
-
-* parts I might need but not sure what are they for
+- Ole bicycle wheel
+- wheel holder
+Parts I might need but not sure what are they for
 - Hall Sensor
 - General Purpose Transistor
 - Male Header
 - 100uF/6V Capacitor
 
-- Ole bicycle wheel
-- wheel holder
-
-* Buy
+Buy
 * I hope I can build a wheel holder but it requiers the technique that I don't…… and the time is a hitman.
  * still thinking a new way to replace the wheel holder.
   * wood boards whith bears?
