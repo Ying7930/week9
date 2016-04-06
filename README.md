@@ -36,7 +36,6 @@
 - General Purpose Transistor
 - Male Header
 - 100uF/6V Capacitor
- 
 
 - Ole bicycle wheel
 - wheel holder
@@ -49,6 +48,7 @@
 ### Challenges
 - coding
 - A lot of electronic parts that I don't know
+- building the kit requires neat hands, neat head, and attantion.
 
 ### Project Timeline
 1. Code the prototype
