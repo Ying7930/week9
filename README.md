@@ -41,7 +41,7 @@ Parts I might need but not sure what are they for
 Buy
 * I hope I can build a wheel holder but it requiers the technique that I don't…… and the time is a hitman.
  * still thinking a new way to replace the wheel holder.
-  * wood boards whith bears?
+  * wood boards whith gears?
 
 ### Challenges
 - coding
